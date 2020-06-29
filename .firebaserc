@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-blog-2d535"
+  },
+  "targets": {
+    "angular-blog-2d535": {
+      "hosting": {
+        "angular-blog": [
+          "angular-blog-2d535"
+        ]
+      }
+    }
+  }
+}
